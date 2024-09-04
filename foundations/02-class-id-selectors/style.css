@@ -1,0 +1,20 @@
+.pink,.bigger-pink{
+   background-color: pink;
+   font-family: Verdana,'Dejavu Sans',sans-serif;
+   font-weight: bold;
+}
+
+.bigger-pink{
+   font-size: 24px;
+}
+
+#primeira-div{
+   color: rgb(43, 43, 173);
+   font-size: 36px;
+}
+
+#segunda-div{
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold;
+}
